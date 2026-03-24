@@ -22,5 +22,6 @@ This repositories or archive will contain some of Testing-Library from Interacti
 - [931 council](https://otog.in.th/problem/931) [(⚙ the library file)](./931%20council/council.h)
 - [959 TUMSO20_mathmath2](https://otog.in.th/problem/959) [(⚙ the library file)](./959%20TUMSO20_mathmath2/mathmath2.h)
 - [1014 TOI20_Route](https://otog.in.th/problem/1014) [(⚙ the library file)](./1014%20TOI20_Route/route.h)
+- [1158 Detective](https://otog.in.th/problem/1158) [(⚙ the library file)](./1158%20Detective/detective.h)
 
 > PS Most of Otog's problem are written in Thai
