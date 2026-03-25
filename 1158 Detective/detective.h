@@ -1,2 +1,2 @@
-long long query(int l, int r);
-long long findMissing(int n);
+long long query(int L, int R);
+long long findMissing(int N);

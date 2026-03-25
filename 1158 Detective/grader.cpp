@@ -10,10 +10,10 @@ static std::vector<int> hidden;
 static std::vector<long long> pref;
 static int missing_value;
 
-long long query(int l, int r) {
-    assert(0 <= l && l <= r && r < N);
+long long query(int L, int R) {
+    assert(0 <= L && L <= R && R < N);
     assert(++counter <= Q);
-    return pref[r + 1] - pref[l];
+    return pref[R + 1] - pref[L];
 }
 
 int main() {
